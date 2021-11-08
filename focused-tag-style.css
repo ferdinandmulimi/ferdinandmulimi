@@ -1,0 +1,11 @@
+.focus {
+    color:red;
+    font-style: italic;
+}
+
+.unfocus {
+    color: green;
+    font-style: italic;
+}
+    
+}
